@@ -1,0 +1,1 @@
+data %>% mutate(bis_t1r = bis1 + bis2 + bis3 + bis4 + bis5 + bis6r + bis7)
